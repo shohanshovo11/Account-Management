@@ -33,3 +33,4 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 # Basic-App-for-Electron-Vite-React-Tailwind-Sqlite3
+# Account-Management
